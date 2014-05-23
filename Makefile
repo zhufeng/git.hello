@@ -1,6 +1,6 @@
 main:
-	gcc -o hello hello.c
-	./hello
+	gcc -o hello-github hello.c
+	./hello-github
 
 clean:
-	rm hello
+	rm hello-github
