@@ -69,3 +69,4 @@ VPE			: 1
 VCED exceptions		: not available
 VCEI exceptions		: not available
 
+Linux NEWIFI-D2 3.4.113 #13 SMP Sun Oct 24 16:40:37 CST 2021 mips GNU/Linux
