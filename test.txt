@@ -70,3 +70,21 @@ VCED exceptions		: not available
 VCEI exceptions		: not available
 
 Linux NEWIFI-D2 3.4.113 #13 SMP Sun Oct 24 16:40:37 CST 2021 mips GNU/Linux
+
+
+
+Kylin-Server！
+In trial period.
+Expiration date of trial: 2022-06-24
+System is not activated.
+
+
+NAME          MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+sr0            11:0    1 1024M  0 rom  
+nvme0n1       259:0    0  100G  0 disk 
+├─nvme0n1p1   259:1    0  200M  0 part /boot/efi
+├─nvme0n1p2   259:2    0    1G  0 part /boot
+└─nvme0n1p3   259:3    0 98.8G  0 part 
+  ├─klas-root 253:0    0   20G  0 lvm  /
+  ├─klas-swap 253:1    0    2G  0 lvm  [SWAP]
+  └─klas-lv01 253:2    0   52M  0 lvm  /lv01
