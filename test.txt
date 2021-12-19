@@ -69,4 +69,32 @@ VPE			: 1
 VCED exceptions		: not available
 VCEI exceptions		: not available
 
+
+
+
+
+
 Linux NEWIFI-D2 3.4.113 #13 SMP Sun Oct 24 16:40:37 CST 2021 mips GNU/Linux
+
+
+
+
+############## Kylin Linux Version #################
+Release:
+Kylin Linux Advanced Server release V10 (Tercel)
+
+Kernel:
+4.19.90-23.6.v2101.ky10.x86_64
+
+Build:
+Kylin Linux Advanced Server
+release V10 (SP1) /(Tercel)-x86_64-Build19/20210319
+#################################################
+
+
+
+
+
+Linux kylinV10SP1 4.19.90-23.6.v2101.ky10.x86_64 #1 SMP Wed Mar 17 15:21:26 CST 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+
