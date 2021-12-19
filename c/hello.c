@@ -3,6 +3,6 @@
 int main(int argc, const char *argv[])
 {
 	printf ("hello world !\n");
-	printf ("GitHub usage test....\n");
+	printf ("git usage test....\n");
 	return 0;
 }

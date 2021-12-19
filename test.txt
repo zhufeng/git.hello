@@ -1,0 +1,100 @@
+Darwin zhufengs-iMac.local 13.1.0 Darwin Kernel Version 13.1.0: Wed Apr  2 23:52:02 PDT 2014; root:xnu-2422.92.1~2/RELEASE_X86_64 x86_64
+
+Linux NEWIFI-D2 3.4.113 #13 SMP Sun Oct 24 16:40:37 CST 2021 mips GNU/Linux
+
+
+
+system type		: MediaTek MT7621 SoC
+processor		: 0
+cpu model		: MIPS 1004Kc V2.15
+BogoMIPS		: 583.68
+wait instruction	: yes
+microsecond timers	: yes
+tlb_entries		: 32
+extra interrupt vector	: yes
+hardware watchpoint	: yes, count: 4, address/irw mask: [0x0000, 0x0000, 0x0003, 0x0003]
+ASEs implemented	: mips16 dsp mt
+shadow register sets	: 1
+kscratch registers	: 0
+core			: 0
+VPE			: 0
+VCED exceptions		: not available
+VCEI exceptions		: not available
+
+processor		: 1
+cpu model		: MIPS 1004Kc V2.15
+BogoMIPS		: 583.68
+wait instruction	: yes
+microsecond timers	: yes
+tlb_entries		: 32
+extra interrupt vector	: yes
+hardware watchpoint	: yes, count: 4, address/irw mask: [0x0000, 0x0000, 0x0000, 0x0000]
+ASEs implemented	: mips16 dsp mt
+shadow register sets	: 1
+kscratch registers	: 0
+core			: 0
+VPE			: 1
+VCED exceptions		: not available
+VCEI exceptions		: not available
+
+processor		: 2
+cpu model		: MIPS 1004Kc V2.15
+BogoMIPS		: 583.68
+wait instruction	: yes
+microsecond timers	: yes
+tlb_entries		: 32
+extra interrupt vector	: yes
+hardware watchpoint	: yes, count: 4, address/irw mask: [0x0000, 0x0000, 0x0000, 0x0000]
+ASEs implemented	: mips16 dsp mt
+shadow register sets	: 1
+kscratch registers	: 0
+core			: 1
+VPE			: 0
+VCED exceptions		: not available
+VCEI exceptions		: not available
+
+processor		: 3
+cpu model		: MIPS 1004Kc V2.15
+BogoMIPS		: 583.68
+wait instruction	: yes
+microsecond timers	: yes
+tlb_entries		: 32
+extra interrupt vector	: yes
+hardware watchpoint	: yes, count: 4, address/irw mask: [0x0000, 0x0000, 0x0000, 0x0000]
+ASEs implemented	: mips16 dsp mt
+shadow register sets	: 1
+kscratch registers	: 0
+core			: 1
+VPE			: 1
+VCED exceptions		: not available
+VCEI exceptions		: not available
+
+
+
+
+
+
+Linux NEWIFI-D2 3.4.113 #13 SMP Sun Oct 24 16:40:37 CST 2021 mips GNU/Linux
+
+
+
+
+############## Kylin Linux Version #################
+Release:
+Kylin Linux Advanced Server release V10 (Tercel)
+
+Kernel:
+4.19.90-23.6.v2101.ky10.x86_64
+
+Build:
+Kylin Linux Advanced Server
+release V10 (SP1) /(Tercel)-x86_64-Build19/20210319
+#################################################
+
+
+
+
+
+Linux kylinV10SP1 4.19.90-23.6.v2101.ky10.x86_64 #1 SMP Wed Mar 17 15:21:26 CST 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+
